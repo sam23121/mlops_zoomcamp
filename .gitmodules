@@ -1,0 +1,3 @@
+[submodule "03_orchestration/homework/mage-quickstart"]
+	path = 03_orchestration/homework/mage-quickstart
+	url = https://github.com/sam23121/mlops_zoomcamp.git
